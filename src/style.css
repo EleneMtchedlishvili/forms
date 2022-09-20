@@ -14,3 +14,12 @@ input {
 form {
   width: 200px;
 }
+.container {
+  padding: 50px;
+}
+.submit {
+  border-style: none;
+  border-radius: 10px;
+  color: white;
+  background-color: darkslategray;
+}
